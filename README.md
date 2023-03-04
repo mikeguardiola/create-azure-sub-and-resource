@@ -13,7 +13,7 @@ This tutorial is designed for beginners and will outline the basics of how to ge
 
 - Windows 10 Pro (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>High-Level Steps</h2>
 
 - Step 1: Create an Azure account within the Azure portal
 - Step 2: Create a Resource Group 
@@ -24,7 +24,7 @@ This tutorial is designed for beginners and will outline the basics of how to ge
 - Step 7: Delete the Resource Group
 - Step 8: Verify that the Resource Group has been deleted
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Azure Subscription and Resource Group Creation Step-By-Step Instructions</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
