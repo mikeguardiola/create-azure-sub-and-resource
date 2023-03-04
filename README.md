@@ -2,25 +2,16 @@
 <img src="https://www.imagar.com/wp-content/uploads/2018/06/azure.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+<h1>How to Create a Subscription and Resource in Azure </h1>
+This tutorial is designed for beginners and will outline the basics of how to get started using Azure, Microsoft's cloud computing platform. You will learn how to create an Azure Subsciption and Resource Group. A Subcription is a logical container used to provision related business or techincal resources. A Resource Group is a container that holds related resources for an Azure solution. It can house resources such as virtual machines, app services, storage accounts, SQL databases etc. <br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Microsoft Azure
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 Pro (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
