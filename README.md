@@ -15,10 +15,14 @@ This tutorial is designed for beginners and will outline the basics of how to ge
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Create an Azure account within the Azure portal
+- Step 2: Create a Resource Group 
+- Step 3: Create a Storage Account within the Resource Group
+- Step 4: Create a file on your local desktop and upload it into the Stprage Account
+- Step 5: Edit the file within the Storage Account (within the Azure Portal)
+- Step 6: Download the file and observe the changes
+- Step 7: Delete the Resource Group
+- Step 8: Verify that the Resource Group has been deleted
 
 <h2>Deployment and Configuration Steps</h2>
 
