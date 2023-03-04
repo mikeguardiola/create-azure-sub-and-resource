@@ -24,7 +24,7 @@ This tutorial is designed for beginners and will outline the basics of how to ge
 - Step 7: Delete the Resource Group
 - Step 8: Verify that the Resource Group has been deleted
 
-<h2>Azure Subscription and Resource Group Creation Step-By-Step Instructions</h2>
+<h2>Azure Subscription and Resource Group Creation: Step-By-Step Instructions</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
