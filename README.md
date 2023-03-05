@@ -15,18 +15,19 @@ This tutorial is designed for beginners and will outline the basics of how to ge
 
 <h2>High-Level Steps</h2>
 
-- Step 1: Create an Azure account within the Azure portal
-- Step 2: Create a Resource Group 
-- Step 3: Create a Storage Account within the Resource Group
-- Step 4: Create a file on your local desktop and upload it into the Stprage Account
-- Step 5: Edit the file within the Storage Account (within the Azure Portal)
-- Step 6: Download the file and observe the changes
-- Step 7: Delete the Resource Group
-- Step 8: Verify that the Resource Group has been deleted
+- Create an Azure account within the Azure portal
+- Create a Resource Group 
+- Create a Storage Account within the Resource Group
+- Create a file on your local desktop and upload it into the Stprage Account
+- Edit the file within the Storage Account (within the Azure Portal)
+- Download the file and observe the changes
+- Delete the Resource Group
+- Verify that the Resource Group has been deleted
 
 <h2>Azure Subscription and Resource Group Creation: Step-By-Step Instructions</h2>
 
 <p>
+  Step 1:
 <img src="https://i.imgur.com/FDh8Umj.png"/>
 </p>
 <p>
@@ -35,6 +36,7 @@ First, you will need to navigate to https://azure.microsoft.com/en-us/free/. Cli
 <br />
 
 <p>
+  Step 2:
 <img src="https://i.imgur.com/m21ZVwI.png"/>
 </p>
 <p>
