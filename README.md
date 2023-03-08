@@ -40,14 +40,68 @@ First, you will need to navigate to https://azure.microsoft.com/en-us/free/. Cli
 <img src="https://i.imgur.com/m21ZVwI.png"/>
 </p>
 <p>
-Once you have created your account and your account confirmation is complete, you can go ahead and navigate to the Azure Portal. If you ever have difficulty finding the Azure Portal, you can always access it by typing https://portal.azure.com into your web browser.
+Once you have gone through the entire process of creating your account and your account verification is complete, you can go ahead and navigate to the Azure Portal. If you ever have difficulty finding the Azure Portal, you can always access it by typing https://portal.azure.com into your web browser.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Step 3:
+<img src="https://i.imgur.com/HiWBPue.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After you are in the Azure Portal, you will want to verify that an active subscription was created. Go to the search bar within the portal and type "Subsciptions". Click on the search result titled "Subscriptions" with the gold key next to it.
+</p>
+<br />
+
+<p>
+  Step 4:
+<img src="https://i.imgur.com/np0vgG1.png"/>
+</p>
+<p>
+You will be taken to this screen where we can see that "Azure Subscription 1" has been created. On the far right side, you can see that status of the subscription is "Active".
+</p>
+<br />
+
+<p>
+  Step 5:
+<img src="https://i.imgur.com/UWGG5v9.png"/>
+</p>
+<p>
+Next, you will go ahead and create your first Resource Group in Azure. To do this, navigate to the portal search bar and type "Resource groups". Click on "Resource groups".
+</p>
+<br />
+
+<p>
+  Step 6:
+<img src="https://i.imgur.com/gPTqYim.png"/>
+</p>
+<p>
+You will be taken to this screen. Once there, click on "Create".
+</p>
+<br />
+
+<p>
+  Step 7:
+<img src="https://i.imgur.com/DQAM8ke.png"/>
+</p>
+<p>
+Now you can start configuring your resource group. Make sure that "Azure subscription 1" is selected in the first drop down menu. Next, choose a name for your resource group. You can go with "resource-group-lab-01" if you would like, or you can choose something else. Then you will want to select the region that most closely matches where you live. After that, click the "Next: Tags >" button at the bottom of the screen.
+</p>
+<br />
+
+<p>
+  Step 8:
+<img src="https://i.imgur.com/whsN2iV.png"/>
+</p>
+<p>
+We won't be creating any tags for this resource group, so you can go ahead and skip this step. Click on the "Next: Review + create >" button at the bottom of the screen.
+</p>
+
+<p>
+  Step 9:
+<img src="https://i.imgur.com/whsN2iV.png"/>
+</p>
+<p>
+We won't be creating any tags for this resource group, so you can go ahead and skip this step. Click on the "Next: Review + create >" button at the bottom of the screen.
 </p>
 <br />
