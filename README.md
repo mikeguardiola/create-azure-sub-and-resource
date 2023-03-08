@@ -99,9 +99,27 @@ We won't be creating any tags for this resource group, so you can go ahead and s
 
 <p>
   Step 9:
-<img src="https://i.imgur.com/whsN2iV.png"/>
+<img src="https://i.imgur.com/2z3qaeP.png"/>
 </p>
 <p>
-We won't be creating any tags for this resource group, so you can go ahead and skip this step. Click on the "Next: Review + create >" button at the bottom of the screen.
+The resource group will go through a quick validation process. Once validated, you will see a green checkmark indicating that validation has passed. Click on the "Create" button at the bottom of the screen.
+</p>
+<br />
+
+<p>
+  Step 10:
+<img src="https://i.imgur.com/XWrsFI0.png"/>
+</p>
+<p>
+Congratulations! You have officially created your first resource group in Azure. Go ahead an click on "resource-group-lab-01". This will take you to the portal for this resource group.
+</p>
+<br />
+
+<p>
+  Step 11:
+<img src="https://i.imgur.com/Dv8mmwy.png"/>
+</p>
+<p>
+This will conclude your first tutorial on how to get started using Microsoft Azure. Well done! In the next tutorial, you will be learning how to create a storage account within your resource group.
 </p>
 <br />
