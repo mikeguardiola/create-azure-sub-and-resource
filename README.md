@@ -20,7 +20,7 @@ This tutorial is designed for beginners and will outline the basics of how to ge
 - Create a Resource Group 
 - Access the Resource Group Portal
 
-<h2>Azure Subscription and Resource Group Creation: Step-By-Step Instructions</h2>
+<h2>Step-By-Step Instructions:</h2>
 
 <p>
   Step 1:
